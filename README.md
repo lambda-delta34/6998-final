@@ -19,4 +19,4 @@ This project is a comprehensive study between first order optimizers and second 
  - `DLsys_final_project_report.pdf`: Our final report.
  - `ada_hessian.py`: Adahessian Implementation for Experimentation.
  - `experiment-torch.ipynb`: Our experiment code, just run each block one by one and you should get the result. (Note: it is extremely slow)
- - `data`: This contains the experiment data based on our run, which are used for `presentation` and `final analysis`.
+ - `data`: This contains the experiment data based on our run, `cv_new` are  used for `presentation` and `final analysis` and `cv_old` are for demonstration of Pytorch default implementation has accuracy issue for `Cifar10`. Inside the directory `data_analysis.ipynb` is the code for making the visualizations.
